@@ -1,0 +1,66 @@
+body {
+    background-color: #C0EEE4;
+    margin: 0%;
+    text-align: center;
+    font-family: 'Noto Sans TC', sans-serif;
+    font-weight: normal;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: rgb(197, 192, 185);
+    border-width: 10px;
+    width: 20%;
+    padding: 1%;
+
+}
+
+/*top section*/
+.earth {
+    position: relative;
+    width: 30%;
+}
+
+.enterprise {
+    position: absolute;
+    left: 25%;
+    bottom: 6.25%;
+    width: 6.25%;
+}
+
+h1 {
+    font-size: 500%;
+    margin-top: 0%;
+    margin-bottom: 0.625%;
+    padding-left: 0.625%;
+    font-family: 'Sacramento', cursive;
+}
+
+.intro {
+    margin-top: 0.625%;
+    margin-bottom: 0%;
+    padding-left: 0.625%;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.top {
+    position: relative;
+    padding-top: 3.125%;
+}
+
+
+
+
+.middle-one-left {
+
+
+.middle-one-right {
+
+
+.middle-text-middle {
+
+

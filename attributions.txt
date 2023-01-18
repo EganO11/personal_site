@@ -1,0 +1,9 @@
+Earth attribution:
+    <a href="https://www.flaticon.com/free-icons/planet" title="planet icons">Planet icons created by Freepik - Flaticon</a>
+
+wrench-dna-gear:
+    <a href="https://www.flaticon.com/free-icons/dna" title="dna icons">Dna icons created by Uniconlabs - Flaticon</a>
+
+enterprise:
+    <a href="https://www.flaticon.com/free-icons/saga" title="saga icons">Saga icons created by Freepik - Flaticon</a>
+
